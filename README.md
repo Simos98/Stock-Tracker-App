@@ -7,11 +7,6 @@
 ![React](https://img.shields.io/badge/react-18-61dafb)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-<!-- Replace with a real screenshot or GIF: save it as docs/screenshot.png and uncomment the next line. -->
-<!-- ![Finance Companion dashboard](docs/screenshot.png) -->
-
-> **Screenshot coming soon:** dashboard, stock detail and report builder.
-
 ## The problem
 
 Retail investors who follow a handful of companies end up juggling broker apps, news sites and spreadsheets to answer simple questions:
